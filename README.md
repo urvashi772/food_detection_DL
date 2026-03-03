@@ -57,7 +57,7 @@ It’s a lightweight and interactive tool for health-conscious individuals or AI
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-food-detector.git
+(https://github.com/urvashi772/food_detection_DL/tree/main)
 cd ai-food-detector
 
 **2️⃣ Create a Virtual Environment (Recommended)**
